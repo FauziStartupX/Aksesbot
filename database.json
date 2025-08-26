@@ -1,11 +1,12 @@
 {
   "user": [
     {
-      "nama": "Fauzi Alifatah",
-      "nomor": "6281340019858",
-      "ip": "45.130.229.224",
-      "limit": "Unlimited",
-      "premium": "true"
+      "nomor": "62812xxxx",
+      "ip": "103.xxx.xxx.xxx"
+    },
+    {
+      "nomor": "62857xxxx",
+      "ip": "114.xxx.xxx.xxx"
     }
   ]
 }
