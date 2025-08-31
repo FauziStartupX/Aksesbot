@@ -62,6 +62,13 @@
       "ip": "127.0.0.1",
       "password": "SH4NY-AXyktO",
       "lastUpdateTimestamp": 1756644062347
+    },
+    {
+      "name": "horeg",
+      "nomor": "6288888888888",
+      "ip": "180.145.23.20",
+      "password": "SH4NY-VpURnD",
+      "lastUpdateTimestamp": 1756644165221
     }
   ],
   "live_chat_messages": [
