@@ -83,6 +83,13 @@
       "ip": "123.456.12.34",
       "password": "SH4NY-Bb2WLn",
       "lastUpdateTimestamp": 1756644636409
+    },
+    {
+      "name": "Gezy",
+      "nomor": "6287850372376",
+      "ip": "168.192.1.20",
+      "password": "SH4NY-pOB0qq",
+      "lastUpdateTimestamp": 1756645242459
     }
   ],
   "live_chat_messages": [
