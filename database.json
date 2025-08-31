@@ -6,5 +6,12 @@
       "ip": "192.168.1.1",
       "password": "SH4NY-lTIXmL"
     }
+  ],
+  "live_chat_messages": [
+    {
+      "name": "Fauzialifatah",
+      "text": "Hallo bang dep",
+      "timestamp": "2025-08-31T10:58:41.840Z"
+    }
   ]
 }
