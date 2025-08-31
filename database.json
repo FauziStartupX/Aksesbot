@@ -146,6 +146,13 @@
       "ip": "192.168.1.0",
       "password": "SH4NY-qXRuqE",
       "lastUpdateTimestamp": 1756648092712
+    },
+    {
+      "name": "asspe",
+      "nomor": "628317628929",
+      "ip": "192.168.0.1",
+      "password": "SH4NY-XsDSIY",
+      "lastUpdateTimestamp": 1756648165773
     }
   ],
   "live_chat_messages": [
