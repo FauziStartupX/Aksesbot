@@ -27,6 +27,13 @@
       "ip": "0.0.0.0",
       "password": "SH4NY-dcMxkg",
       "lastUpdateTimestamp": 1756643914830
+    },
+    {
+      "name": "Nveus",
+      "nomor": "628123456789",
+      "ip": "180.142.19.6",
+      "password": "SH4NY-HrePGY",
+      "lastUpdateTimestamp": 1756643974305
     }
   ],
   "live_chat_messages": [
