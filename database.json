@@ -48,6 +48,13 @@
       "ip": "114.10.78.161",
       "password": "SH4NY-s4fRWk",
       "lastUpdateTimestamp": 1756644004699
+    },
+    {
+      "name": "Agus",
+      "nomor": "62812345678",
+      "ip": "666.666.666.666",
+      "password": "SH4NY-fP2KMe",
+      "lastUpdateTimestamp": 1756644056324
     }
   ],
   "live_chat_messages": [
