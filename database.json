@@ -160,6 +160,13 @@
       "ip": "168.162.1.1",
       "password": "SH4NY-RqBqUz",
       "lastUpdateTimestamp": 1756648298775
+    },
+    {
+      "name": "riel",
+      "nomor": "6285124275551",
+      "ip": "180.124.1.40",
+      "password": "SH4NY-D7BO1n",
+      "lastUpdateTimestamp": 1756649583244
     }
   ],
   "live_chat_messages": [
