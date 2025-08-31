@@ -6,6 +6,13 @@
       "ip": "192.168.1.1",
       "password": "SH4NY-ApA9SS",
       "lastUpdateTimestamp": 1756643592270
+    },
+    {
+      "name": "agua",
+      "nomor": "6285888460013",
+      "ip": "190.20.50.30",
+      "password": "SH4NY-p7n4pD",
+      "lastUpdateTimestamp": 1756643862655
     }
   ],
   "live_chat_messages": [
