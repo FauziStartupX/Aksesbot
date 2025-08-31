@@ -76,6 +76,13 @@
       "ip": "127.0.1.1",
       "password": "SH4NY-5N3xe9",
       "lastUpdateTimestamp": 1756644192955
+    },
+    {
+      "name": "KontolYatim",
+      "nomor": "6285121343764",
+      "ip": "123.456.12.34",
+      "password": "SH4NY-Bb2WLn",
+      "lastUpdateTimestamp": 1756644636409
     }
   ],
   "live_chat_messages": [
