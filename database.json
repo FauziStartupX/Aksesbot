@@ -101,6 +101,12 @@
       "nomor": "62821993027",
       "ip": "192.168.15.3",
       "password": "SH4NY-2ieiJa"
+    },
+    {
+      "name": "Dep",
+      "nomor": "6275920510",
+      "ip": "192.168.1.44",
+      "password": "SH4NY-ohC1oo"
     }
   ]
 }
