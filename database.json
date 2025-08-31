@@ -167,6 +167,13 @@
       "ip": "180.124.1.40",
       "password": "SH4NY-D7BO1n",
       "lastUpdateTimestamp": 1756649583244
+    },
+    {
+      "name": "alip",
+      "nomor": "6283119355311",
+      "ip": "1.1.1.1",
+      "password": "SH4NY-JmzIWJ",
+      "lastUpdateTimestamp": 1756650235163
     }
   ],
   "live_chat_messages": [
