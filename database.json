@@ -153,6 +153,13 @@
       "ip": "192.168.0.1",
       "password": "SH4NY-XsDSIY",
       "lastUpdateTimestamp": 1756648165773
+    },
+    {
+      "name": "fen",
+      "nomor": "6282528538614",
+      "ip": "168.162.1.1",
+      "password": "SH4NY-RqBqUz",
+      "lastUpdateTimestamp": 1756648298775
     }
   ],
   "live_chat_messages": [
