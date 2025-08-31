@@ -139,6 +139,13 @@
       "ip": "111.111.111.98",
       "password": "SH4NY-N6mVzm",
       "lastUpdateTimestamp": 1756647359981
+    },
+    {
+      "name": "asma",
+      "nomor": "6283176152964",
+      "ip": "192.168.1.0",
+      "password": "SH4NY-qXRuqE",
+      "lastUpdateTimestamp": 1756648092712
     }
   ],
   "live_chat_messages": [
