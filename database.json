@@ -90,6 +90,13 @@
       "ip": "168.192.1.20",
       "password": "SH4NY-pOB0qq",
       "lastUpdateTimestamp": 1756645242459
+    },
+    {
+      "name": "Andres",
+      "nomor": "57302928292",
+      "ip": "180.146.1.1",
+      "password": "SH4NY-hSqG87",
+      "lastUpdateTimestamp": 1756645540049
     }
   ],
   "live_chat_messages": [
