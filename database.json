@@ -5,7 +5,12 @@
       "nomor": "6281340019858",
       "ip": "192.168.1.1",
       "password": "SH4NY-8LJf0D",
-      "chat": [],
+      "chat": [
+        {
+          "text": "Haii dev",
+          "timestamp": "2025-08-31T11:55:00.928Z"
+        }
+      ],
       "lastUpdateTimestamp": 1756641277014
     }
   ]
